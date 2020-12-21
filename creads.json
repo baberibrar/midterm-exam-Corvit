@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "linen-age-299306",
+  "private_key_id": "--------------",
+  "private_key": "-----BEGIN PRIVATE KEY-----\--------------\nSwKfu5KoMrTOgCdB9nEl9lQhrKa7gX6vGjB36EDVYTg8V9ksChvGkuWPFXL3o+DN\n05nHDNk1IEcBcE0d4CqQjqVKG3/CDHoPPbXnHAq1D6TY1J2veHINxOoe+7Fu8WdU\n9KVodMfKWmo8FqNHSBWG5IAqBRK3D7FlIqN2Bob0y6HTnkda+AfbcS19OBKAj2qw\nRGnSQxgTsQRaZ0PqDSl6IrIHXuroDdsv70fOnhkSQGcgPaftSJspkTQFRUo1uhSO\nKew8rineXBKg2eEo8j1Grq739fLMBeyoR9B+aKHtDf1yqKDfZDg/UT9RZBIc8YAX\nZEA2Zr01AgMBAAECggEAKCFgODPcvRDVSzWggKT59D4Er2kkW8n4/Ar4xUwRaPp7\nABnVFe+WaXKD9Lm8j4IuYGjHpFqj8R75ej0DwEDcDODP2asu3HUz9/fJi+zDPT4i\n9a9eCQn+PfEOrZSVtR77Wp+cAefVorOCPyHlhiQS8oWfAuDK5bD2hsyEBALkQWcY\nZg9jQLE1grGj9i+Knd60WCVtP2eegyZhEtCyC+R3cjmrMOUz0F4TCFQU3EGK+owA\n8L7sZ55kMCu5HjgG7SaZ4PqhkOUCB+w7Z/ArtKvCAySGLSBQuAs/POxlGN5lFAZH\nM9CSPGnkNA654zl1CNYhT22cm9C97g3FniEnvRLR+QKBgQDJdvCDwNjpjrUB1gy5\nv70V0rYRz2s4fMQ8Yls6iQhCYJzV4zhFnIRDFycAbNaNM6nTB8SDNsV29UipAzy5\nMRAmoSfBajvNNOimZNXv6yFsM4UJJd65Sg4cYpQq+z1tp0BPKVr5nCl54F3fy2vp\nsnYOJeXxfjUO7QfbvnF4V6kMGwKBgQC55DspXG4lXDCPawV7EyM4HAO9JPk5NcMW\n7zEyS+ZKDk97zqNDmVkezF54qzc9UozvdGhwB9C4AXVCxT4lioCirNurkiSzhxgR\nhBj0BOQpl0Rg6qtxzDWPlmOQh07c4drX4H+QU57sYuGkXF/iO2GWubc6qqNwc2Je\nxifBCCRQ7wKBgAk8z+hqpkeHSJtt8iVuOkBO6hRE+3ial/Dg3agAcoWAopBYG9Nt\nSs88t4gYdXoB/W50s7kEgOdkddFyGY2wRzpON2Fx+o39OBGxG/IlSOIKNrZlqyG5\n2I3Ko1qZLIbjnVpD3i0F0Q0KkaNaU3divHEHodSB4fLuQWb9A3zuIA0zAoGABS3o\nwBRFNWFGMRjIRE+aMZwGNqTrFL78uozbkA0xU2rmqApv3hhNtV/4WeBbX6gHKTzT\nFBwDorzXqY6ZVq5vOxkZ3cPqpd3ju8k0cMgaG1aNny2qrTcFXwTPrV03w0u/rzgg\nFcNesDNpGg1A1qrU40A1bLsIZr+wQ/e9b9FsQZ0CgYAFY695bXxY1K2p7N21XEBr\nnWSKfKhn0rbEQqPsdxV64af6qx8dKBNm55OY4RI94bTUJDs5GX7Zk2kYUCTHgTho\n9y7BA4H6Z1XkiV3KiPqXRGR64OjJE0d0nF5Du6bYQpqkcGlj3jHeP4se6WjdQiAQ\nlHMz2olrd0TFZWIYC+vnhA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "googlesheet@linen-age-299306.iam.gserviceaccount.com",
+  "client_id": "--------",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googlesheet%40linen-age-299306.iam.gserviceaccount.com"
+}
